@@ -55,7 +55,7 @@ def main():
 
 
     # Title/ text
-    st.title('Streamlit Exam Data Analysis')
+    st.title('Streamlit Data Analysis')
 
 
 
